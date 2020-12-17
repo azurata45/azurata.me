@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+## About
 
-You can use the [editor on GitHub](https://github.com/azurata45/azurata.me/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am a student learning software engineering in a prefectural high school, Okinawa, Japan.  
+Next year, I'm going to join a university majoring in computer science.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Skills
+- Object-Oriented-Programming
+  - UML
+  - Java
+  - C++
+- Web Frontend
+  - HTML
+  - CSS
+  - SCSS
+  - Vue.js
+  - Nuxt.js
+- Networking
+  - Cisco IOS
 
-### Markdown
+## History
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 2002
+- Borned
 
-```markdown
-Syntax highlighted code block
+### 2018
+- Joined in High School
 
-# Header 1
-## Header 2
-### Header 3
+### 2019
+- Got "CCNA R&S: Introduction to Networks" by Cisco Networking Academy in school
+- Got Grand Champion of "ET Robot Contest in Okinawa"
+- Started to participate engineer community
 
-- Bulleted
-- List
+### 2020
+- Got pass "IT Passport(National Exam in Japan)"
+- Got "CCNA R&S: Routing and Switching Essentials" by Cisco Networking Academy in school
+- Got "Introduction to Cybersecurity" by Cisco Networking Academy in school
+- Got nominated on Inno vation Generation Awards
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/azurata45/azurata.me/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Links
+[Mail](mailto:azurata45@vivaldi.net)
+[Twitter](https://twitter.com/azurata45)
+[Instagram](https://www.instagram.com/azurata45)
+[IM@STODON](https://imastodon.net/@azurata)
+[Keybase](https://keybase.io/azurata)
+[Telegram](https://telegram.me/azurata)
+[Blogger](https://blog.azurata.me)
+[GitHub](https://github.com/azurata45)
+[GitLab](https://gitlab.com/azurata45)
+[AtCoder](https://atcoder.jp/users/azurata)
+[yukicoder](https://yukicoder.me/users/8237)
+[connpass](https://connpass.com/user/azurata)
+[SpeakerDeck](https://speakerdeck.com/azurata45)
