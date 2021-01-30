@@ -38,7 +38,7 @@ Next year, I'm going to join a university majoring in computer science.
 
 
 ## Links
-[Mail](mailto:azurata45@vivaldi.net)
+[Mail](mailto:contact@azurata.me)
 [Twitter](https://twitter.com/azurata45)
 [Instagram](https://www.instagram.com/azurata45)
 [IM@STODON](https://imastodon.net/@azurata)
