@@ -2,6 +2,7 @@ baseURL: "https://www.azurata.me/"
 languageCode: "en-us"
 title: "azurata.me"
 theme: "PaperMod"
+publishDir: docs
 
 params:
   disableThemeToggle: true
