@@ -28,4 +28,3 @@ I'm interested in Entertainment content with ICT.
   - CCNA R&S: Introduction to Networks
   - CCNA R&S: Routing and Switching Essentials
   - Introduction to Cybersecurity
-- Nominate of Inno vation Generation Awards
