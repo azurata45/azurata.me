@@ -4,7 +4,7 @@ title: About Me
 
 ## Profile
 
-I'm a student learning computer engineering in a Future University Hakodate since April 2021.
+I'm a student learning computer engineering in Future University Hakodate since April 2021.
 
 In former, I was learning in prefectural school in Okinawa, Japan until March 2021.
 
